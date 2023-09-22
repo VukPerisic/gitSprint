@@ -11,7 +11,8 @@ The project is meant to give you a refresher on aspects of React like props, fun
 3. Clone the project using `git clone https://github.com/VukPerisic/gitSprint.git`.
 4. Navigate into the project directory using `cd gitSprint`.
 2. Switch to a new branch using `git checkout -b [YOUR FIRST NAME]`.
-3. You're good to go! Follow the instructions below now.
+3. Create a new react app (`npx create-react-app my-app-name`) in your folder. 
+4. You're good to go! Follow the instructions below now.
 
 ## Overview
 You will be creating a basic React app that shows a MainPage component with a button displaying the text "Generate Post". 
