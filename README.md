@@ -1,6 +1,6 @@
 # React Learning Sprint
 
-> Due Monday, September 25, 2023 at 11:59 PM
+> Due Monday, September 25, 2023 at 6:39 PM (please complete it before our work session!)
 
 ## Objective
 The project is meant to give you a refresher on aspects of React like props, functional components, state variables, and using dependencies. Don't feel pressured to make it perfect and remember to ask for help when you need it!
