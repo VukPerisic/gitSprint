@@ -1,4 +1,4 @@
-PlexTech x Songtradr - Learning Sprint Assignment
+# PlexTech x Songtradr - Learning Sprint Assignment
 
 This project is bootstrapped using [Create React App](https://facebook.github.io/create-react-app).
 
